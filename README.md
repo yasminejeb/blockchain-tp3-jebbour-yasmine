@@ -16,4 +16,4 @@ Comparaison des trois technologies selon plusieurs critères : coût, rapidité 
 - À compléter (liens et date de consultation)
 
 ## Outils utilisés
-GitHub Desktop, RStudio, Markdown, assistant d'IA (aide à la structuration et à la relecture du plan).
+GitHub Desktop et GitHub.com, RStudio, Markdown, assistant d'IA (aide à la structuration et à la relecture du plan).
